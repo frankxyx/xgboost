@@ -1,0 +1,7 @@
+*.out
+*.o 
+*.exe 
+*.pyc
+*.csv
+*.DS_Store
+__pycache__/
